@@ -1,4 +1,6 @@
 # MRC-GTAUtil-StreamConverter
+NOTE: This project is currently in development. There is currently a bug that causes a crash. This happens because the array index is out of bounds. Unsure as what causes this though as sometimes it works fine.
+
 This program converts eup stream folders into a folder structure that can be used by GTAUtil. Useful for quickly adding or restructoring large amounts of eup
 
 Convert this:
